@@ -1,0 +1,45 @@
+h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  p {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+  }
+
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #0077c5; /* Qureshi Autos brand color */
+    color: #fff;
+  }
+  
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav li {
+    margin: 0 1rem;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .product-card {
+    border: 1px solid #333;
+    padding: 1rem;
+  }
+  
+  button {
+    padding: 0.5rem 1rem;
+  }
+  
